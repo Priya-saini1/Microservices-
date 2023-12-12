@@ -1,0 +1,14 @@
+com\example\UserService\entity\User.class
+com\example\UserService\controller\UserController.class
+com\example\UserService\Dto\userRequestDto.class
+com\example\UserService\entity\Hotel.class
+com\example\UserService\exception\GlobalExceptionHandler.class
+com\example\UserService\configuration\RestTemplateConfiguration.class
+com\example\UserService\repository\UserRepository.class
+com\example\UserService\payload\ApiResponse$ApiResponseBuilder.class
+com\example\UserService\entity\Ratings.class
+com\example\UserService\UserServiceApplication.class
+com\example\UserService\exception\ResourceNotFoundException.class
+com\example\UserService\servicesImpl\UserServiceImpl.class
+com\example\UserService\payload\ApiResponse.class
+com\example\UserService\services\UserService.class
